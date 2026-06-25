@@ -6,13 +6,13 @@
 
 ---
 
-### What I'm building
+### What I'm building currently
 
-- **[MindYourGain](https://clreyesv.dev)** — SaaS fitness platform for personal trainers and their online clients. Built on a shared KMP module connecting a Ktor backend with Compose Multiplatform clients on Android and iOS. *(Coming soon)*
+- **[MindYourGain](https://clreyesv.dev/projects/mind-your-gain/)** — SaaS fitness platform for personal trainers and their online clients. Built on a shared KMP module connecting a Ktor backend with Compose Multiplatform clients on Android and iOS. *(Coming soon)*
 
 - **LangLern** — German language learning app, simple and nimble. Built with Kotlin Multiplatform and native UI — while studying German B2 myself. *(Coming soon)*
 
-- **[Life Help](https://clreyesv.dev)** — Wellness platform connecting users with advisors for live 1:1 video sessions, real-time chat and subscriptions. Built with Flutter, NestJS and Agora RTC. *(Coming soon)*
+- **[Life Help](https://clreyesv.dev/projects/life-help/)** — Wellness platform connecting users with advisors for live 1:1 video sessions, real-time chat and subscriptions. Built with Flutter, NestJS and Agora RTC. *(Coming soon)*
 
 ---
 
